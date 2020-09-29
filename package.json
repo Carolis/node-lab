@@ -1,0 +1,26 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "API NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carolis/node-lab.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Carolis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carolis/node-lab/issues"
+  },
+  "homepage": "https://github.com/Carolis/node-lab#readme",
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "typescript": "^4.0.3"
+  }
+}
